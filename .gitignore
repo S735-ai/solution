@@ -1,0 +1,12 @@
+*.class
+
+# Package Files #
+*.war
+*.ear
+.project
+.settings
+
+**/build/
+**/dist/
+
+.DS_Store
